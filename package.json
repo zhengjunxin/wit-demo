@@ -1,0 +1,18 @@
+{
+  "name": "wit-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "郑俊鑫",
+    "email": "18810544291@163.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "wit-demo@1.0.0",
+  "scripts": {
+    "start": "node initial-data/index.js"
+  }
+}
